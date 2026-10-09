@@ -56,3 +56,16 @@ Es el archivo principal del proyecto. Será el punto de inicio de la aplicación
 - Programación Orientada a Objetos
 - Git
 - GitHub
+
+___________________________________________________________________________________________________________________
+✔️ Control de versiones
+
+El proyecto Sistema Salón de Belleza utiliza Git y GitHub para gestionar el control de versiones y mantener un historial de los cambios realizados durante su desarrollo.
+
+Actualmente, el repositorio cuenta con las siguientes ramas:
+
+main: rama principal destinada a mantener las versiones estables del proyecto.
+
+develop: rama de desarrollo donde se incorporan las nuevas funcionalidades, modificaciones y mejoras del sistema.
+
+Nota: Los cambios y avances más recientes del proyecto se encuentran en la rama develop. Para consultar el código actualizado, es necesario seleccionar esta rama en GitHub.
